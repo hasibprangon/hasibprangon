@@ -2,4 +2,4 @@
 
 ### Hello there my respectable seniors and loving friends👋
 
-Hello friends , I am Hasibul Hossain. I am learning Front-End development and my study background is Computer Science and Engineering.I am a quick learner and I have been improving my learning skills .
+Hello , I am Hasibul Hossain. I am learning Front-End development and my study background is Computer Science and Engineering.I am a quick learner and I have been improving my learning skills .
