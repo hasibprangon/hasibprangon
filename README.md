@@ -57,5 +57,3 @@ It's me, Md Hasibul Hossain. I am a front-end developer Web Developer with a bac
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
-<img src="https://raw.githubusercontent.com/hasibprangon/hasibprangon/output/snake.svg" alt="Snake animation" />
