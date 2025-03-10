@@ -6,6 +6,8 @@
   Let’s create seamless, innovative, and stunning web experiences together! 🚀
 </h2>
 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 ###
 
 <div align="center">
@@ -15,7 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.ibb.co.com/RTmZx6F6/github.png"  />
 
 ###
 
