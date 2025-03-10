@@ -1,9 +1,10 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Front-End+Developer;" alt="Typing SVG" /></a></p>
 
-<h2 align="left">👋 Hello, I'm Md Hasibul Hossain
-I’m a front-end developer passionate about building beautiful, responsive, and intuitive web applications that provide exceptional user experiences. With expertise in React, Tailwind CSS, and DaisyUI, I’m dedicated to transforming ideas into dynamic digital solutions that engage and delight. ✨
-
-Let’s create seamless, innovative, and stunning web experiences together! 🚀</h2>
+<h2 align="left" style="font-size: 16px;">
+  👋 Hello, I'm Md Hasibul Hossain  
+  I’m a front-end developer passionate about building beautiful, responsive, and intuitive web applications that provide exceptional user experiences. With expertise in React, Tailwind CSS, and DaisyUI, I’m dedicated to transforming ideas into dynamic digital solutions that engage and delight. ✨  
+  Let’s create seamless, innovative, and stunning web experiences together! 🚀
+</h2>
 
 ###
 
