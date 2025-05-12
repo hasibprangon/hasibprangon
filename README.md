@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/fV7dyVW8/github.png" alt="GitHub banner" />
+  <img src="https://i.ibb.co/fV7dyVW8/github.png" alt="GitHub banner" style="max-width: 100%; height: auto;" />
 </div>
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
