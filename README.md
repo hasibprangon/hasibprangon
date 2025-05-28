@@ -1,5 +1,7 @@
 <div align="center">
-<a href="https://ibb.co/0p3y6pLB"><img src="https://i.postimg.cc/02LxYf4p/github.png" alt="github" border="0"></a>
+  <a href="https://ibb.co/0p3y6pLB">
+    <img src="https://i.postimg.cc/02LxYf4p/github.png" alt="github" border="0">
+  </a>
 </div>
 
 <p align="center">
@@ -10,7 +12,7 @@
 
 ### Hi there my gorgeous friend👋
 
-It's me, Md Hasibul Hossain. I am a front-end developer Web Developer with a background in Computer Science & Engineering. I am passionately curious about learning and writing code. I am a quick learner which is my strength. Besides, I am always curious to explore new technologies and can easily adapt to any new technology. Gradually, I have been improving my interpersonal skills and my strategic thinking.
+It's me, Md Hasibul Hossain. I am a front-end Web Developer with a background in Computer Science & Engineering. I am passionately curious about learning and writing code. I am a quick learner which is my strength. Besides, I am always curious to explore new technologies and can easily adapt to any new technology. Gradually, I have been improving my interpersonal skills and my strategic thinking.
 
 :coffee: &emsp;Connect with me!
 
@@ -36,7 +38,7 @@ It's me, Md Hasibul Hossain. I am a front-end developer Web Developer with a bac
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img width="12" />
@@ -54,6 +56,8 @@ It's me, Md Hasibul Hossain. I am a front-end developer Web Developer with a bac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
 </div>
 
 ---
