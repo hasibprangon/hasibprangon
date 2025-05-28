@@ -78,3 +78,7 @@ It's me, Md Hasibul Hossain. I am a front-end Web Developer with a background in
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+</div>
